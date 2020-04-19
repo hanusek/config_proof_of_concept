@@ -1,2 +1,6 @@
-# config_proof_of_concept
+## config_proof_of_concept
 My Solution to the problem of conversion between different types of configurations.
+
+### Launch
+`cargo test`
+`cargo run`

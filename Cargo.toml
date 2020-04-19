@@ -1,0 +1,12 @@
+[package]
+name = "config_proof_of_concept"
+version = "0.1.0"
+authors = ["Michał Hanusek <mhanusek@energotest.com.pl>"]
+edition = "2018"
+
+[dependencies]
+serde = "1.0.63"
+serde_derive = "1.0.63"
+serde_json = "1.0.51"
+bincode = "1.2.1"
+nom = "5.0"
